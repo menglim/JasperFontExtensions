@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Annotation profile for jasper-fonts-extention" enabled="true">
+        <sourceOutputDir name="../../../Users/MENGLIM/output/kh.com.csds.jasper-fonts-extention.jasper-fonts-extention/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../Users/MENGLIM/output/kh.com.csds.jasper-fonts-extention.jasper-fonts-extention/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jasper-fonts-extention" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jasper-fonts-extention" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
